@@ -1720,8 +1720,6 @@ importers:
         specifier: workspace:*
         version: link:../build-tooling
       '@scalar/openapi-parser':
-        specifier: ^0.7.2
-        version: 0.7.2
         specifier: workspace:*
         version: link:../openapi-parser
       httpsnippet-lite:
